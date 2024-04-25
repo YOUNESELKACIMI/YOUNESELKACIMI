@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Younes EL KACIMI</h1>
-<h3 align="center">A Computer Science Student && Cyber Security passionate</h3>
+<h3 align="center">A Software Engineering Student && Cyber Security passionate</h3>
 
 - 🔭 I’m currently working on **Cyber Security projects**
 
