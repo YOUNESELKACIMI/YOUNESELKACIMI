@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Younes EL KACIMI</h1>
 <h3 align="center">A Software Engineering Student && Cyber Security passionate</h3>
 
-- 🔭 I’m currently working on **Cyber Security projects**
+- 🔭 I’m currently working on **Software Engineering & Cyber Security projects**
 
 - 📫 How to reach me **youns.elkacimi@gmail.com**
 
