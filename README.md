@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Younes EL KACIMI</h1>
-<h3 align="center">An Infrastructure && Cyber Security Engineer</h3>
+<h3 align="center">A Software && Cyber Security Engineer</h3>
 
-- 🔭 I’m currently working on **Cyber Security and Infrastructure projects**
+- 🔭 I’m currently working on **Software and Cyber Security** projects
 
 - 📫 How to reach me **youns.elkacimi@gmail.com**
 
